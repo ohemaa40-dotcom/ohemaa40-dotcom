@@ -17,7 +17,7 @@ Registered nurse with experience in medical-surgical nursing, telemetry, intensi
 ## Featured sample
 [Clinical Documentation Audit](https://github.com/ohemaa40-dotcom/clinical-documentation-audit)
 
-A newly prepared, AI-assisted demonstration using synthetic data. Includes an audit results table, calculation method, findings and spreadsheet reproduction instructions. No patient or employer information is included; this is not a claim of previous professional software experience.
+Includes an audit results table, calculation method, findings and spreadsheet reproduction instructions. 
 
 ## Areas of interest
 Healthcare data organization · Documentation quality · Research support · Patient education · Responsible AI in healthcare
